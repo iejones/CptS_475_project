@@ -5,3 +5,4 @@ CptS 475 (Data Science) at WSU Fall 2021 term project on visualization of COVID-
 * Pandas
 * Plotly
 * Jupyter
+* kaleido

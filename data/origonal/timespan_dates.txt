@@ -1,0 +1,12 @@
+timespan	start	end
+1	Jan 1, 2020	Mar 20, 2020
+2	Mar 21, 2020	Apr 30, 2020
+3	May 1, 2020	Sep 20, 2020
+4	Sep 21, 2020	Dec 31, 2020
+5	Jan 1, 2020	Jan 31, 2021
+6	Feb 1, 2021	Feb 28, 2021
+7	Mar 1, 2021	Mar 31, 2021
+8	Apr 1, 2021	Apr 30, 2021
+9	May 1, 2021	May 31, 2021
+10	Jun 1, 2021	June 30, 2021
+11	Jul 1, 2021	Jul 31, 2021
