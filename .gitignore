@@ -1,2 +1,6 @@
 __pycache__/
 data/final/all.csv
+.Rproj.user
+.DS_Store
+.RData
+.RHistory
